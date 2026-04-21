@@ -1,1 +1,0 @@
-- use TypeScript over JavaScript for any React or Next.js projects
